@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StarWars</string>
+    <string name="nacimiento">Año de nacimiento</string>
+    <string name="genero">Genero</string>
+    <string name="altura">Altura</string>
+    <string name="nombre">Nombre</string>
+    <string name="respuesta">Respuesta del servidor: </string>
+    <string name="datos">Datos: </string>
+    <string name="econexion">Error de Conexion: </string>
+    <string name="titulo">Titulo </string>
+    <string name="desc">Descripcion </string>
+</resources>
